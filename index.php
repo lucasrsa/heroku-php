@@ -1,5 +1,5 @@
 <?php
-    $actual_date  = date('d/m/y');
+    $actual_date  = new DateTime();
 ?>
 
 <html>
