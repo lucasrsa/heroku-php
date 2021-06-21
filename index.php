@@ -3,8 +3,8 @@
 ?>
 
 <html>
-    <h1> Avaliação SOCPS II </h1>
-    <h2> Lucas Rosa da Silva </h2>
-    <h2> <?= $actual_date ?> </h2>
+    <p> Avaliação SOCPS II </p>
+    <p> Lucas Rosa da Silva </p>
+    <p> <?= $actual_date ?> </p>
 </html>
 
